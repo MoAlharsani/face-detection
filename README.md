@@ -39,7 +39,7 @@ Unzip these files and place them in a `models` directory at the root of the repo
 ## Directory Structure
 
 ```
-face-recognition-audio/
+face-recognition/
 │
 ├── models/
 │   ├── shape_predictor_68_face_landmarks.dat
