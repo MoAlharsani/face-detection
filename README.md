@@ -55,10 +55,8 @@ face-recognition/
 │       ├── image2.jpg
 │       └── ...
 │
-├── audio_files/
-│   ├── siu.mp3
-│   ├── ankara_messi.mp3
-│   └── mo_salah.mp3
+├── other/
+│   └── other_files
 │
 ├── scripts/
 │   ├── data_process.py
