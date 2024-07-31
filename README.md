@@ -3,6 +3,9 @@
 
 This repository contains a Python-based face recognition system that detects faces from a webcam feed. The system uses dlib and OpenCV libraries for face detection and recognition. At this code it plays specific audio files when certain faces are recognized. The action taken when a face is detected is limitless and can be customized to your needs.
 
+## Demo
+https://github.com/user-attachments/assets/cdb8212b-40d0-4cd2-99bd-82d5ba6f4e83
+
 ## Overview
 
 The project includes two main scripts:
